@@ -8,10 +8,10 @@ Exploratory Data Analysis (EDA) of a cardiovascular disease dataset. The analysi
 Cardio_EDA_Analysis/
 ├── cardio-eda-analysis/
 │   ├── data/
-│   │   └── cardio_train.csv      # Raw dataset (70,000 rows, 13 columns)
+│   │   └── cardio_train.csv
 │   └── notebook/
-│       ├── cardio_eda.ipynb      # Main EDA notebook
-│       └── cardio_cleaned.csv    # Cleaned dataset (output)
+│       ├── cardio_eda.ipynb
+│       └── cardio_cleaned.csv
 └── README.md
 ```
 
